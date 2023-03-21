@@ -5,3 +5,24 @@
 body {
   margin: 0;
 }
+
+.header {
+  background-color: aqua;
+}
+
+.main{
+  background-color: white;
+}
+
+.section {
+
+background-color: aquamarine;
+}
+
+.secondsection {
+  background-color:beige;
+}
+
+.thirdsection {
+  background-color: blue;
+}
