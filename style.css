@@ -8,26 +8,26 @@ body {
 }
 
 .header {
-  background-color: aqua;
+  background-color: #D782BA;
+  color: black;
 }
 
 .main{
-  background-color: white;
+  background-color: #E18AD4;
 }
 
 .section {
-
-background-color: transparent;
+background-color: #EEB1D5;
 color: black;
-width: auto;
-
+width:"100"
 }
 
 .secondsection {
-  background-color:beige;
+  background-color:#EFC7E5;
+  color: black;
 }
 
 .thirdsection {
-  background-color: blue;
-  color: white;
+  background-color:#E0EFDA;
+  color: black;
 }
