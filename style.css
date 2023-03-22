@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+
 }
 
 .header {
@@ -16,7 +17,10 @@ body {
 
 .section {
 
-background-color: aquamarine;
+background-color: transparent;
+color: black;
+width: auto;
+
 }
 
 .secondsection {
@@ -25,4 +29,5 @@ background-color: aquamarine;
 
 .thirdsection {
   background-color: blue;
+  color: white;
 }
